@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import abs2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-abs2@deno/mod.js';
+import abs2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-abs2@v0.1.0-deno/mod.js';
 ```
 
 #### abs2( N, dtypeX, x, strideX, dtypeY, y, strideY )
@@ -156,7 +156,7 @@ var uniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-unifor
 import filledarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled@deno/mod.js';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@deno/mod.js';
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-dtypes@deno/mod.js';
-import abs2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-abs2@deno/mod.js';
+import abs2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-abs2@v0.1.0-deno/mod.js';
 
 var dt;
 var x;
