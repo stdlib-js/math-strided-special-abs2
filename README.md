@@ -201,6 +201,14 @@ for ( i = 0; i < dt.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/math-strided/special/abs`][@stdlib/math/strided/special/abs]</span><span class="delimiter">: </span><span class="description">compute the absolute value for each element in a strided array.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/dabs2`][@stdlib/math/strided/special/dabs2]</span><span class="delimiter">: </span><span class="description">compute the squared absolute value for each element in a double-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/math-strided/special/sabs2`][@stdlib/math/strided/special/sabs2]</span><span class="delimiter">: </span><span class="description">compute the squared absolute value for each element in a single-precision floating-point strided array.</span>
+
 </section>
 
 <!-- /.related -->
@@ -279,6 +287,16 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
 
 [@stdlib/strided/dtypes]: https://github.com/stdlib-js/strided-dtypes
+
+<!-- <related-links> -->
+
+[@stdlib/math/strided/special/abs]: https://github.com/stdlib-js/math-strided-special-abs
+
+[@stdlib/math/strided/special/dabs2]: https://github.com/stdlib-js/math-strided-special-dabs2
+
+[@stdlib/math/strided/special/sabs2]: https://github.com/stdlib-js/math-strided-special-sabs2
+
+<!-- </related-links> -->
 
 </section>
 
