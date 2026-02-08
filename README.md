@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import abs2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-abs2@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-strided-special-abs2/tags). For example,
+
+```javascript
 import abs2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-abs2@v0.2.3-deno/mod.js';
 ```
 
@@ -156,7 +161,7 @@ var uniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-unifor
 import filledarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled@deno/mod.js';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@deno/mod.js';
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-real-float-dtypes@deno/mod.js';
-import abs2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-abs2@v0.2.3-deno/mod.js';
+import abs2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-strided-special-abs2@deno/mod.js';
 
 var dt;
 var x;
